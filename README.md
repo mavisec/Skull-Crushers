@@ -1,2 +1,2 @@
-# reading_u-p_output
-Reading Usernames &amp; Passwords from a File and Custom Output
+# Skull Crushers
+A Collection of Hacking Scripts made by me.
