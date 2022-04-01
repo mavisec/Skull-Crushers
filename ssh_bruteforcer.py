@@ -12,11 +12,11 @@ print("""
                                                                                    by mavisec
         """)
 
-username = "msfadmin"
-host = "192.168.195.129"
+username = "msfadmin" #change this
+host = "192.168.195.129" #change this
 attempts = 0
 
-f = open('100.txt','r')
+f = open('100.txt','r') #change this
 
 for i in f:
     i = i.strip("\n")
@@ -30,4 +30,4 @@ for i in f:
         response.close()
     except Exception as e:
         print(e)
-    attempts =+ 1
+    attempts += 1
