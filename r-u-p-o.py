@@ -1,3 +1,4 @@
+#a script to read contents from a file.
 import sys #importing sys module
 
 f = open('100.txt','r') #reading from the file
